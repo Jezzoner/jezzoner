@@ -20,5 +20,7 @@
   ## 💰 Puedes ayudarme donando aqui
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/jezzoner?country.x=EC&locale.x=es_XC) 
 
-  
+  git init
+  git add .
+  git commit -m "start"
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
